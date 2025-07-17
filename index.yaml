@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  nginxstd:
+  - apiVersion: v2
+    appVersion: 1.27.0
+    created: "2025-07-17T12:34:04.95751264+09:00"
+    description: nginx standard for woori company
+    digest: fc217213706e81f6e537a62d1e7ae21439c33dad3b95db7d5ea1921f5b08a993
+    name: nginxstd
+    type: application
+    urls:
+    - nginxstd-1.0.0.tgz
+    version: 1.0.0
+generated: "2025-07-17T12:34:04.956819937+09:00"
